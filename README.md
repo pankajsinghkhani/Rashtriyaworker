@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pankaj singh khani  
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python and quary language
-- 💞️ I’m looking to collaborate on a basic python project
+- 👀 I’m interested in coding.
+- 🌱 project based on python and quary languages.
+- 💞️ I’m looking to collaborate on a python project.
 - 📫 How to reach me- send a message
 
 <!---
